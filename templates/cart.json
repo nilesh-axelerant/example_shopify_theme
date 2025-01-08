@@ -1,8 +1,39 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
-    "sections": {
-        "template": {
-            "type": "template-cart"
+  "sections": {
+    "template": {
+      "type": "template-cart",
+      "blocks": {
+        "update_button_9nfRPK": {
+          "type": "update_button",
+          "settings": {}
+        },
+        "subtotal_4CE8Kn": {
+          "type": "subtotal",
+          "settings": {}
+        },
+        "checkout_button_wQYKzj": {
+          "type": "checkout_button",
+          "settings": {}
         }
-    },
-    "order": ["template"]
+      },
+      "block_order": [
+        "update_button_9nfRPK",
+        "subtotal_4CE8Kn",
+        "checkout_button_wQYKzj"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "template"
+  ]
 }
