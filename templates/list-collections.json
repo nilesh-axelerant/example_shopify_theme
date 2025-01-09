@@ -22,10 +22,19 @@
         "featured_collection": "shirt-collection",
         "number_of_products_to_show": 6
       }
+    },
+    "featured_collection_yU8jeQ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Collection",
+        "featured_collection": "shoes-collection",
+        "number_of_products_to_show": 5
+      }
     }
   },
   "order": [
     "template",
-    "featured_collection_Gmy46Y"
+    "featured_collection_Gmy46Y",
+    "featured_collection_yU8jeQ"
   ]
 }
